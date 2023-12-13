@@ -57,5 +57,5 @@
 
 ## Réseaux Sociaux
 
-- [Lien vers votre Profil LinkedIn](https://www.linkedin.com/in/matis-dembele-a15730253/)
+- [Mon LinkedIn](https://www.linkedin.com/in/matis-dembele-a15730253/)
 
