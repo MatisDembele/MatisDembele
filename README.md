@@ -3,44 +3,57 @@
 
 ## Informations Personnelles
 
-- **Nom :** [Votre Nom]
-- **Prénom :** [Votre Prénom]
-- **Âge :** [Votre Âge]
-- **Adresse :** [Votre Adresse]
+- **Nom :** DEMBELE
+- **Prénom :** Matis
+- **Âge :** 21
+- **Adresse :** Toulon
 
 ## Formation Académique
 
-### [Nom de l'École ou de l'Université]
+### Lycée Bonaparte
 
-- **Programme :** [Nom du Programme d'Études]
-- **Niveau :** [Votre Niveau d'Études (par exemple, Première année, Deuxième année, etc.)]
-- **Année d'Entrée :** [Année d'Entrée]
-- **Année de Diplôme Prévue :** [Année de Diplôme Prévue]
+- **Programme :** BTS SIO SLAM
+- **Niveau :** Deuxième année
+- **Année d'Entrée :** 2022
+- **Année de Diplôme Prévue :** 2024
 
-## Compétences
+- **Langages de Programmation :**
+  - JavaScript
+  - TypeScript
+  - Python
+  - C#
+  - VBA
+  - SQL
 
-- **Langages de Programmation :** [Liste des Langages que vous maîtrisez]
-- **Compétences Techniques :** [Liste de Compétences Techniques]
-- **Langues :** [Langues que vous parlez et votre niveau]
+- **Développement Web :**
+  - HTML5
+  - CSS3
+  - Node.js
 
-## Expérience Professionnelle (le cas échéant)
+- **Base de Données :**
+  - MySQL
+  - MariaDB
 
-### [Nom de l'Entreprise ou de l'Organisation]
+- **Frameworks :**
+  - Vue.js
+  - Angular
+  - Symfony
 
-- **Poste :** [Votre Poste]
-- **Période :** [Mois/Année de Début] - [Mois/Année de Fin]
-- **Description :** [Brève description de vos responsabilités et réalisations]
+- **Outils de Versionnage :**
+  - Git
+  - GitHub
 
-## Projets Réalisés
+- **Méthodologies de Développement :**
+  - Agile (Scrum)
 
-- **[Nom du Projet]**
-  - **Description :** [Description du Projet]
-  - **Rôle :** [Votre Rôle dans le Projet]
-  - **Compétences Utilisées :** [Compétences Techniques utilisées]
+- **Conception d'Interface Utilisateur (UI) :**
+  - Figma
+  - Adobe XD
 
-## Centres d'Intérêt
-
-- [Centres d'Intérêt, Loisirs, Activités Extra-Scolaires, etc.]
+- **Autres Compétences :**
+  - Gestion de Projet
+  - Résolution de Problèmes
+  - Collaboration d'Équipe
 
 ## Réseaux Sociaux
 
