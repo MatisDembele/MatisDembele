@@ -57,10 +57,5 @@
 
 ## Réseaux Sociaux
 
-- [Lien vers votre Profil LinkedIn]
-- [Lien vers votre Profil GitHub (si applicable)]
-- [Autres Liens Pertinents]
+- https://www.linkedin.com/in/matis-dembele-a15730253/)https://www.linkedin.com/in/matis-dembele-a15730253/
 
----
-
-*Ce modèle de profil étudiant peut être personnalisé en fonction de vos informations spécifiques.*
